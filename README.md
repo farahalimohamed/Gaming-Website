@@ -35,11 +35,11 @@ You can visit the live deployed website here:
 
 📂 Project Structure
 
-|-- index.html  
-|-- style.css  
-|-- main.js  
+|-- index.html
+|-- style.css
+|-- main.js
 |-- img/
-|-- videos/  
+|-- videos/
 
 💡 About the Project
 
