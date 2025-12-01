@@ -30,7 +30,7 @@ JavaScript
 📺 Live Demo
 
 You can visit the live deployed website here:
-[🔗 Gaming Website Live Demo](https://farahalimohamed.github.io/Gaming-Website/)
+🔗 [Gaming Website Live Demo](https://farahalimohamed.github.io/Gaming-Website/)
 
 📂 Project Structure
 |-- index.html  
