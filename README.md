@@ -41,6 +41,7 @@ You can visit the live deployed website here:
 |-- img/
 |-- videos/
 
+
 💡 About the Project
 
 This website was created to practice building clean, modern interfaces and experimenting with UI creativity.
