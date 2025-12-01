@@ -38,7 +38,7 @@ You can visit the live deployed website here:
 |-- index.html  
 |-- style.css  
 |-- main.js  
-|-- img/ 
+|-- img/
 |-- videos/  
 
 💡 About the Project
